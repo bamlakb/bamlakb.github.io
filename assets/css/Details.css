@@ -1,0 +1,9 @@
+
+ #gallery img {
+    width: 70% !important;
+    height: 100% !important;
+    margin-bottom:5px; /* to match column gap */
+ }
+#major{
+    font-size: 1em;
+}

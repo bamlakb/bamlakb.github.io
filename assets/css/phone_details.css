@@ -1,0 +1,15 @@
+
+#gallery img {
+    width: 20% !important;
+    height: 10% !important;
+    margin-bottom:5px; /* to match column gap */
+    margin-left: 100px;
+ }
+#major{
+    font-size: 1em;
+}
+#gallery_ img {
+    width: 70% !important;
+    height: 100% !important;
+    margin-bottom:5px; /* to match column gap */
+ }
